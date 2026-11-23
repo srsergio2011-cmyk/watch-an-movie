@@ -27,3 +27,4 @@ npm run preview
 - Diseño adaptable a móvil y escritorio.
 
 Las imágenes del catálogo se sirven desde TMDB. La aplicación es una demo de frontend y no requiere una clave API.
+Autor: darklord523
